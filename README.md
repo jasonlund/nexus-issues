@@ -68,7 +68,7 @@ If you have an idea for the forum and it isn't already outlined below, we'd love
 - [ ] Front end design
   - [ ] Complete new design transition
   - [ ] Breadcrumbs
-- [x] Users
+- [ ] Users
   - [x] Anyone can register accounts
   - [ ] Users must verify their email address when registering an account
   - [x] Users have a role
@@ -90,7 +90,7 @@ If you have an idea for the forum and it isn't already outlined below, we'd love
   - [x] Locked Channels only allow Administrators, Super Moderators or Moderators of that Channel to create Topics
   - [ ] Channels belong to a Channel Category and are grouped as such when listed
   - [ ] Channels can optionally have a featured image which is displayed in that channel's header
-- [x] Topics & Replies
+- [ ] Topics & Replies
   - [x] Topics belong to a Channel
   - [x] Topics in a Channel are paginated (25 per page)
   - [x] Replies belong to a Topic
